@@ -1,0 +1,25 @@
+h2{
+  font-size:24px;
+}
+
+h1{
+  color:yellow;
+}
+
+#content-header{
+  font-size:14px;
+  color:red;
+}
+
+span{
+  display: block;
+  
+
+}
+a{
+  color:blueviolet;
+}
+
+.deck{
+  color:red;
+}
